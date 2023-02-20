@@ -1,6 +1,8 @@
 # 📖 Guide to Berry the Task Manager Bot
 
-## 🍒Features🍒
+---
+
+## 🍒 Features
 
 ### 1. Quick Task Management
 
@@ -18,7 +20,27 @@
 <p> Why put all your tasks together? </p>
 You can hashtag them and put them into categories
 
-## 🍒Usage🍒
+---
+
+## ✨ Coming Soon...
+- [x] Finding tasks by keywords
+- [ ] Update User Guide to include a tutorial
+- [ ] Filter data by tags
+- [ ] Mass marking/unmarking/deleting by task index
+- [ ] Mass marking/unmarking/deleting by tags
+
+---
+
+## ⬇️ How to Download
+1. Download the latest version of berry.jar v0.3 [here](https://github.com/IsabelChong/ip/releases/download/v0.3/berry.jar)
+2. Locate your file in the 'Downloads' folder and move it to your 'Desktop'
+3. Open 'terminal' on Mac or 'cmd' on Windows, and change directory to the desktop by running `cd Desktop`
+4. Open Berry by running `java -jar berry.jar`
+5. Start managing your tasks with Berry!
+
+---
+
+## 📕 Usage
 
 ### `help` - shows help menu
 
@@ -29,11 +51,11 @@ Just ask berry to help you in app <:
 
 ---
 
-### `todo <task_name> [#<hash_tag>]` - adds a task to do 
+### `todo <task_name> [#<hash_tag>]` - adds a task to do
 
 This adds a new task for berry to manage.
 
-Example of usage: 
+Example of usage:
 
 `todo get dinner for family`
 
